@@ -1,0 +1,4 @@
+{
+  "api":"local-api",
+  "baseUrl":"http://localhost:5000/"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Cypress - EC",
+  "version": "1.0.0",
+  "description": "Esse projeto faz referência ao teste técnico do Estratégia Concursos.",
+  "main": "index.js",
+  "scripts": {
+    "open": "npm cypress open",
+    "run": "npm cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  }
+}
